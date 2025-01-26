@@ -26,7 +26,8 @@ num2 = parseInt (num2, 10);
 
 sum = num1 % num2;
 
-document.write('20 % 10 = ' + sum + '<br/>')
+document.write('20 % 10 = ' + sum + '<br/>');
+
 sum = num1 * num2;
 
 document.write('20 * 10 = ' + sum + '<br/>')
