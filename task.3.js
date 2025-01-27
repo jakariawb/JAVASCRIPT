@@ -1,4 +1,4 @@
-var num1 = prompt ('Enter Fist Number :');
+var num1 = prompt ('Enter Fist Number :'+ '<br/>');
 var num2 = prompt('Enter Cecond Number :');
 
 
