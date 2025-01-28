@@ -27,3 +27,26 @@ if (letter == 'a'|| letter == 'e' || letter == 'i' || letter == 'o' || letter ==
 else{
     console.log('consonant')
 }
+//switch , case , break , default task-5
+
+var worde = prompt('Enter a worde :')
+
+switch(worde){
+    case 'jakaria':
+        console.log('My Name is a jakaria');
+        break;
+    case 'study':
+        console.log('Honours 3rd Year');
+        break;
+    case 'DIG':
+        // worde = worde.toUpperCase();
+        console.log('Fountain Devoper');
+        break;
+    case 'lnge':
+        console.log('HTML CSS AND JAVASCRIPT');
+        break;
+        default:
+            console.log('not print')
+
+}
+
