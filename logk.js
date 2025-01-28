@@ -49,4 +49,15 @@ switch(worde){
             console.log('not print')
 
 }
+var letter1 = prompt('print vowel :');
+switch (letter1){
+    case 'a':
+    case 'e':
+    case 'i':
+    case 'u':
+        console.log('vowel');
+      break;
+    default:
+        console.log('consonant');
+}
 
