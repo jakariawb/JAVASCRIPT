@@ -61,3 +61,8 @@ switch (letter1){
         console.log('consonant');
 }
 
+for( var x = 10; x >=1; x-1){
+    document.write('<h1>baingladsh</h1>' + x)
+}
+document.write('<h1> END <h1/>')
+
