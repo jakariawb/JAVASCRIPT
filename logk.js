@@ -61,8 +61,14 @@ switch (letter1){
         console.log('consonant');
 }
 
-for( var x = 10; x >=1; x-1){
-    document.write('<h1>baingladsh</h1>' + x)
+for( var x = 1; x <= 10; x = x + 2){
+   
+    document.write('odd number', x)
+   
 }
 document.write('<h1> END <h1/>')
 
+for (var i = 0; i <= 20; i = i + 2){
+    document.write('even number', i)
+}
+document.write('no number')
