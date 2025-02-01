@@ -1,5 +1,5 @@
-var farn = prompt('Emter fahrenheit number :');
-
+// 
+var farn = prompt() 
 var cels = (farn - 32) * (5/9);
 
-document.write('celsius = ' + cels);
+console.log("selces" + cels)
